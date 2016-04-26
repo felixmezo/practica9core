@@ -14,6 +14,10 @@ exports.check = function(req,res,next){
 								answer: answer});
 };
 
+exports.author = function(req,res,next){
+	res.render('author');
+};
+
 
 
 

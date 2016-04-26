@@ -28,3 +28,7 @@ nav a{
 	display: block;
 	text-align: left;
 }
+#foto {
+	width: 540;
+	height: 400;
+}
